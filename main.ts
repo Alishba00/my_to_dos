@@ -101,4 +101,3 @@ while (condition){
 } 
 
 
-console.log("helloworld");
